@@ -1,6 +1,6 @@
 $(document).ready(function() {
   $(".clickable1").click(function() {
-    $("#walrus-showing").slideToggle();
+    $("#walrus-showing").slideDown();
     
   });
 
